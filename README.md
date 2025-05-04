@@ -1,16 +1,49 @@
-# Recommended next steps:
+# Estética Beauty App 💇‍♀️📱
 
-### Note:
+A mobile application designed to help beauty salon owners manage their daily operations more efficiently — including appointment scheduling, staff management, and inventory control.
 
-1. Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
-2. Make sure your `node version` is minimum `23`.
+## 🧩 Project Overview
 
-### To preview and run the project on your device:
+Many small salons still handle operations manually, causing missed appointments, stock issues, and inefficiencies. **Estética Beauty** provides an all-in-one digital solution tailored to these needs.
 
-1. Open project folder in <u>Visual Studio Code</u>
-2. Run `npm install` in the terminal
-3. Run `npx expo start` in the terminal
-4. Run on For iOS device (only on MacOS)
-   1. Press `i` to view on iOS simulator or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
-5. Run on For android device
-   1. Press `a` to view on Android Virtual Device or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
+## ✨ Features
+
+- 📅 **Appointment Management**  
+  Schedule and view upcoming appointments with client and service details.
+
+- 👥 **Staff & Client Info (Planned)**  
+  Keep track of team availability and client preferences (future update).
+
+- 📦 **Inventory Control**  
+  Alerts for low-stock items and organized product management.
+
+- 🧭 **Simple Navigation**  
+  Clean interface with intuitive icons and quick access buttons.
+
+## 🧪 Testing
+
+User journey walkthroughs were conducted to simulate real salon tasks.  
+**Results:**
+- Faster task execution  
+- Easy-to-understand interface  
+- Some improvement needed in real-time sync
+
+## 📌 Technologies
+
+- Wireframes created in **Figma / Canva**
+- Design guided by **User Journey Mapping**
+- Future plans include React Native or Flutter for development
+
+## 🚀 Getting Started (Coming Soon)
+
+Development phase pending. In future versions, we’ll provide:
+- Installation guide
+- How to run locally
+- Contribution guidelines
+
+## 📚 Authors
+
+- Erick Solis Zamacona – `174086`  
+- José Eduardo Zarza Pineda – `176220`  
+- Jonathan Josmar Monfil Guevara – `176128`  
+- Rodrigo Espíritu Berra – `173863`
